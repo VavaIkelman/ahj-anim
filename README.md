@@ -1,3 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/8vm73rmqcckqn3qs?svg=true)](https://ci.appveyor.com/project/ADeoZ/ahj-anim-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/cyskpr4px3wo27mw?svg=true)](https://ci.appveyor.com/project/VavaIkelman/ahj-anim)
 
-[Ссылка на GitHub Pages](https://adeoz.github.io/ahj-anim-1/)
+[GH Pages](https://vavaikelman.github.io/ahj-anim/)
